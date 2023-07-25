@@ -1,2 +1,1 @@
-# 0x01-git
-Starting to code today, so cool
+How to be up to date in git
